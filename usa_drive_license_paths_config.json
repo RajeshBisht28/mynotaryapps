@@ -1,0 +1,8 @@
+{
+    "__comment-1": "this  File name : usa_drive_license_paths_config.json, Internal use for Leaflet Technology",
+	"__comment-2": "env_path: running environment for yolov5 model ",
+	"__comment-3": "script_path: script file path for detecting region from image.",
+	"env_path": "D:\\USA_Drive_Binary\\DL_ENV_py313",
+	"script_path": "D:\\USA_Drive_Binary\\yolov5\\leaflet_extract.py",
+	"tesseract_exepath": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+}

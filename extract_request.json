@@ -1,0 +1,16 @@
+[
+    {
+        "conceptName": "Customer",
+        "ConceptType": "concept/Attribute",
+        "ConceptId": "54654",
+        "conceptValue": "",
+        "description": "may be client , third party or whoever is accepting services."
+    },
+    {
+        "conceptName": "project",
+        "ConceptType": "concept/Attribute",
+        "ConceptId": "54655",
+        "conceptValue": "",
+        "description": "kinds of proposal, todos and task or might be as objective."
+    }
+]

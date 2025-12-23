@@ -1,0 +1,45 @@
+{
+    "111111111": {
+        "names": [
+            "WEI  BESSER",
+            "TONY WEI BESSER",
+            "WANG  BESSER",
+            "TONY  BESSER"
+        ],
+        "dob": {
+            "day": "18",
+            "month": "09",
+            "year": "1946"
+        },
+        "addresses": [
+            {
+                "street": "3009 BURTON AVE",
+                "city": "LAS VEGAS",
+                "state": "NV",
+                "zipCode": "891022068"
+            },
+            {
+                "street": "12 PINE TREE LN",
+                "city": "BURR RIDGE",
+                "state": "IL",
+                "zipCode": "605275900"
+            },
+            {
+                "street": "5 STONEHEARTH SQ",
+                "city": "INDIANHEAD PARK",
+                "state": "IL",
+                "zipCode": "605254455"
+            }
+        ],
+        "phones": [
+            "7028229229",
+            "6307899229",
+            "6307891718"
+        ],
+        "spouse": "NAN",
+        "fraudFlags": [
+            "17"
+        ],
+        "ssn_value": "111111111"
+    }
+}

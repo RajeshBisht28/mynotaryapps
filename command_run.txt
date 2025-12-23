@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "F:\IISsites\PythonSP\notary_source\chdis.ps1"
