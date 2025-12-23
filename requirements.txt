@@ -1,15 +1,15 @@
 absl-py==2.3.0
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.14
-aiosignal==1.4.0
+#comment=>aiosignal==1.4.0
 annotated-types==0.7.0
-anyio==4.9.0
+#comment=>anyio==4.9.0
 asn1crypto==1.5.1
 asttokens==3.0.0
 astunparse==1.6.3
 attrs==25.3.0
 bcrypt==4.3.0
-beautifulsoup4==4.13.4
+#comment=>beautifulsoup4==4.13.4
 blinker==1.9.0
 bs4==0.0.2
 certifi==2025.10.5
@@ -212,3 +212,4 @@ wrapt==1.17.2
 wsproto==1.2.0
 yarl==1.20.1
 zstandard==0.23.0
+
