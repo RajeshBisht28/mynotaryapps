@@ -23,5 +23,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/eNotaryPyton:latest
-            ${{ secrets.DOCKER_USERNAME }}/eNotaryPyton:${{ github.sha }}
+            ${{ secrets.DOCKER_USERNAME }}/notary-python:latest
+            ${{ secrets.DOCKER_USERNAME }}/notary-python:${{ github.sha }}
