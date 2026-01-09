@@ -27,4 +27,5 @@ RUN pip install --upgrade pip \
 
 COPY . .
 
-CMD ["python", "app.py"]
+CMD ["python", "notary_app.py"]
+
