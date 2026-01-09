@@ -1562,8 +1562,9 @@ def stop_openvidu_recording():
 ##### *****************************************************
 if __name__ == "__main__":
     logger.error("REQUEST: LOCAL Via shell command-1")
-    app.run(debug=True)
+    app.run(debug=True, host='0.0.0.0', port=5000)
     print("Server is ready...")
 else:
     logger.error("REQUEST: API Via IIS")
+
 
